@@ -5,7 +5,11 @@
 
 # IPython notebook checkpoints
 .ipynb_checkpoints
+.virtual_documents
 
 # Compiled python
 *.pyc
 *.pyd
+
+# Datasets
+/data
